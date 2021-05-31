@@ -1,0 +1,444 @@
+Folder PATH listing for volume My Data
+Volume serial number is 889A-BDCC
+D:.
+ÃÄÄÄcplusplus.com#1.0#1
+³   ÃÄÄÄbasicsofcpp
+³   ³   ÃÄÄÄbasicinputoutput
+³   ³   ³   ÃÄÄÄcin
+³   ³   ³   ÃÄÄÄcin_and_strings
+³   ³   ³   ÃÄÄÄcout
+³   ³   ³   ÃÄÄÄintro
+³   ³   ³   ÀÄÄÄstringstream
+³   ³   ÃÄÄÄconstants
+³   ³   ³   ÃÄÄÄconst
+³   ³   ³   ÃÄÄÄconstants
+³   ³   ³   ÃÄÄÄdefine
+³   ³   ³   ÃÄÄÄfloating
+³   ³   ³   ÃÄÄÄinteger
+³   ³   ³   ÃÄÄÄliterals
+³   ³   ³   ÃÄÄÄother
+³   ³   ³   ÀÄÄÄstrings
+³   ³   ÃÄÄÄoperators
+³   ³   ³   ÃÄÄÄarithmetic
+³   ³   ³   ÃÄÄÄassignment
+³   ³   ³   ÃÄÄÄbitwise
+³   ³   ³   ÃÄÄÄcomma
+³   ³   ³   ÃÄÄÄcompound
+³   ³   ³   ÃÄÄÄconditional
+³   ³   ³   ÃÄÄÄincrement
+³   ³   ³   ÃÄÄÄlogical
+³   ³   ³   ÃÄÄÄoperators
+³   ³   ³   ÃÄÄÄother
+³   ³   ³   ÃÄÄÄprecedence
+³   ³   ³   ÃÄÄÄrelational
+³   ³   ³   ÃÄÄÄsizeof
+³   ³   ³   ÀÄÄÄtypecast
+³   ³   ÃÄÄÄstructureofaprogram
+³   ³   ³   ÃÄÄÄcomments
+³   ³   ³   ÃÄÄÄprogram_structure
+³   ³   ³   ÀÄÄÄstd
+³   ³   ÀÄÄÄvariablesandtypes
+³   ³       ÃÄÄÄdeclarations
+³   ³       ÃÄÄÄfundamental
+³   ³       ÃÄÄÄidentifiers
+³   ³       ÃÄÄÄinitialization
+³   ³       ÃÄÄÄstrings
+³   ³       ÃÄÄÄtype_deduction
+³   ³       ÀÄÄÄvariables
+³   ÃÄÄÄclasses
+³   ³   ÃÄÄÄclasses(i)
+³   ³   ³   ÃÄÄÄconstructors
+³   ³   ³   ÃÄÄÄdefinition
+³   ³   ³   ÃÄÄÄmember_initialization
+³   ³   ³   ÃÄÄÄoverloading_constructors
+³   ³   ³   ÃÄÄÄpointers_to_classes
+³   ³   ³   ÃÄÄÄstruct_and_union
+³   ³   ³   ÀÄÄÄuniform_initialization
+³   ³   ÃÄÄÄclasses(ii)
+³   ³   ³   ÃÄÄÄclass_templates
+³   ³   ³   ÃÄÄÄconst_member_functions
+³   ³   ³   ÃÄÄÄoverloading_operators
+³   ³   ³   ÃÄÄÄstatic_members
+³   ³   ³   ÃÄÄÄtemplate_specialization
+³   ³   ³   ÀÄÄÄthis
+³   ³   ÃÄÄÄfriendshipandinheritance
+³   ³   ³   ÃÄÄÄfriend_classes
+³   ³   ³   ÃÄÄÄfriend_functions
+³   ³   ³   ÃÄÄÄinheritance
+³   ³   ³   ÃÄÄÄmultiple_inheritance
+³   ³   ³   ÀÄÄÄwhat_is_inherited
+³   ³   ÃÄÄÄpolymorphism
+³   ³   ³   ÃÄÄÄabstract_base_classes
+³   ³   ³   ÃÄÄÄpointers_to_base_class
+³   ³   ³   ÃÄÄÄrequirements
+³   ³   ³   ÀÄÄÄvirtual_members
+³   ³   ÀÄÄÄspecialmembers
+³   ³       ÃÄÄÄcopy_assignment
+³   ³       ÃÄÄÄcopy_constructor
+³   ³       ÃÄÄÄdefault_constructor
+³   ³       ÃÄÄÄdestructor
+³   ³       ÃÄÄÄimplicit
+³   ³       ÃÄÄÄmove
+³   ³       ÀÄÄÄspecial_member_functions
+³   ÃÄÄÄcompounddatatypes
+³   ³   ÃÄÄÄarrays
+³   ³   ³   ÃÄÄÄaccess
+³   ³   ³   ÃÄÄÄarrayparameters
+³   ³   ³   ÃÄÄÄarrays
+³   ³   ³   ÃÄÄÄinitialization
+³   ³   ³   ÃÄÄÄlibraryarrays
+³   ³   ³   ÀÄÄÄmultidimensional
+³   ³   ÃÄÄÄcharactersequences
+³   ³   ³   ÃÄÄÄconverting
+³   ³   ³   ÃÄÄÄinitialization
+³   ³   ³   ÀÄÄÄintro
+³   ³   ÃÄÄÄdatastructures
+³   ³   ³   ÃÄÄÄdata_structures
+³   ³   ³   ÃÄÄÄnesting_structures
+³   ³   ³   ÀÄÄÄpointers_to_structures
+³   ³   ÃÄÄÄdynamicmemory
+³   ³   ³   ÃÄÄÄdelete
+³   ³   ³   ÃÄÄÄintro
+³   ³   ³   ÃÄÄÄmalloc
+³   ³   ³   ÀÄÄÄnew
+³   ³   ÃÄÄÄotherdatatypes
+³   ³   ³   ÃÄÄÄanonymous_unions
+³   ³   ³   ÃÄÄÄenumerated_types
+³   ³   ³   ÃÄÄÄenum_class
+³   ³   ³   ÃÄÄÄtype_aliases
+³   ³   ³   ÀÄÄÄunions
+³   ³   ÀÄÄÄpointers
+³   ³       ÃÄÄÄarithmetics
+³   ³       ÃÄÄÄarrays
+³   ³       ÃÄÄÄconst
+³   ³       ÃÄÄÄdeclaration
+³   ³       ÃÄÄÄdereference
+³   ³       ÃÄÄÄdescription
+³   ³       ÃÄÄÄinitialization
+³   ³       ÃÄÄÄnull
+³   ³       ÃÄÄÄpointerstofunctions
+³   ³       ÃÄÄÄpointerstopointers
+³   ³       ÃÄÄÄreference
+³   ³       ÃÄÄÄstringliterals
+³   ³       ÀÄÄÄvoid
+³   ÃÄÄÄintroduction
+³   ³   ÀÄÄÄcompilers
+³   ³       ÃÄÄÄcompiler
+³   ³       ÃÄÄÄconsole
+³   ³       ÀÄÄÄrequirements
+³   ÃÄÄÄotherlanguagefeatures
+³   ³   ÃÄÄÄexceptions
+³   ³   ³   ÃÄÄÄexceptions
+³   ³   ³   ÃÄÄÄexception_specification
+³   ³   ³   ÀÄÄÄstandard_exceptions
+³   ³   ÃÄÄÄpreprocessordirectives
+³   ³   ³   ÃÄÄÄconditional_inclusions
+³   ³   ³   ÃÄÄÄdefine_undef
+³   ³   ³   ÃÄÄÄdescription
+³   ³   ³   ÃÄÄÄerror_directive
+³   ³   ³   ÃÄÄÄinclude
+³   ³   ³   ÃÄÄÄpragma
+³   ³   ³   ÀÄÄÄpredefined_macro_names
+³   ³   ÀÄÄÄtypeconversions
+³   ³       ÃÄÄÄconst_cast
+³   ³       ÃÄÄÄdynamic_cast
+³   ³       ÃÄÄÄexplicit
+³   ³       ÃÄÄÄimplicit_conversion
+³   ³       ÃÄÄÄimplicit_in_classes
+³   ³       ÃÄÄÄreinterpret_cast
+³   ³       ÃÄÄÄstatic_cast
+³   ³       ÀÄÄÄtypeid
+³   ÃÄÄÄprogramstructure
+³   ³   ÃÄÄÄfunctions
+³   ³   ³   ÃÄÄÄconstref
+³   ³   ³   ÃÄÄÄdeclarations
+³   ³   ³   ÃÄÄÄdefaultvalues
+³   ³   ³   ÃÄÄÄfunctions
+³   ³   ³   ÃÄÄÄinline
+³   ³   ³   ÃÄÄÄmainreturns
+³   ³   ³   ÃÄÄÄrecursivity
+³   ³   ³   ÃÄÄÄreference
+³   ³   ³   ÀÄÄÄvoid
+³   ³   ÃÄÄÄnamevisibility
+³   ³   ³   ÃÄÄÄalias
+³   ³   ³   ÃÄÄÄnamespace
+³   ³   ³   ÃÄÄÄscopes
+³   ³   ³   ÃÄÄÄstd
+³   ³   ³   ÃÄÄÄstorageclasses
+³   ³   ³   ÀÄÄÄusing
+³   ³   ÃÄÄÄoverloadsandtemplates
+³   ³   ³   ÃÄÄÄnontype
+³   ³   ³   ÃÄÄÄoverload
+³   ³   ³   ÀÄÄÄtemplates
+³   ³   ÀÄÄÄstatementsandflowcontrol
+³   ³       ÃÄÄÄifelse
+³   ³       ÃÄÄÄjumps
+³   ³       ÃÄÄÄloops
+³   ³       ÃÄÄÄstatement
+³   ³       ÀÄÄÄswitch
+³   ÀÄÄÄstandardlibrary
+³       ÀÄÄÄinputoutputwithfiles
+³           ÃÄÄÄbinary_files
+³           ÃÄÄÄbuffers_and_sync
+³           ÃÄÄÄchecking_state_flags
+³           ÃÄÄÄclosing_a_file
+³           ÃÄÄÄget_and_put
+³           ÃÄÄÄintro
+³           ÃÄÄÄopean_a_file
+³           ÀÄÄÄtext_files
+ÃÄÄÄlearncpp.com#1.0#1
+³   ÃÄÄÄarrays__strings__pointers__and_references
+³   ³   ÃÄÄÄarrays_and_loops
+³   ³   ÃÄÄÄarrays__part_ii_
+³   ³   ÃÄÄÄarrays__part_i_
+³   ³   ÃÄÄÄc-style_strings
+³   ³   ÃÄÄÄdynamic_memory_allocation_with_new_and_delete
+³   ³   ÃÄÄÄintroduction_to_pointers
+³   ³   ÃÄÄÄmultidimensional_arrays
+³   ³   ÃÄÄÄpointers_and_const
+³   ³   ÃÄÄÄpointers__arrays__and_pointer_arithmetic
+³   ³   ÃÄÄÄreferences
+³   ³   ÃÄÄÄreferences_vs__pointers__and_member_selection
+³   ³   ÃÄÄÄsorting_an_array_using_selection_sort
+³   ³   ÀÄÄÄvoid_pointers
+³   ÃÄÄÄbasic_object-oriented_programming
+³   ³   ÃÄÄÄaccess_functions_and_encapsulation
+³   ³   ÃÄÄÄanonymous_variables_and_objects
+³   ³   ÃÄÄÄclasses_and_class_members
+³   ³   ÃÄÄÄclass_code_and_header_files
+³   ³   ÃÄÄÄconstructors
+³   ³   ÃÄÄÄconstructors__part_ii_
+³   ³   ÃÄÄÄconst_class_objects_and_member_functions
+³   ³   ÃÄÄÄdestructors
+³   ³   ÃÄÄÄfriend_functions_and_classes
+³   ³   ÃÄÄÄpublic_vs_private_access_specifiers
+³   ³   ÃÄÄÄstatic_member_functions
+³   ³   ÃÄÄÄstatic_member_variables
+³   ³   ÃÄÄÄthe_hidden_&#8220;this&#8221;_pointer
+³   ³   ÀÄÄÄwelcome_to_object-oriented_programming
+³   ÃÄÄÄcomposition
+³   ³   ÃÄÄÄaggregation
+³   ³   ÃÄÄÄcomposition
+³   ³   ÃÄÄÄconstructor_initialization_lists
+³   ³   ÀÄÄÄcontainer_classes
+³   ÃÄÄÄcontrol_flow
+³   ³   ÃÄÄÄbreak_and_continue
+³   ³   ÃÄÄÄcontrol_flow_introduction
+³   ³   ÃÄÄÄdo_while_statements
+³   ³   ÃÄÄÄfor_statements
+³   ³   ÃÄÄÄgoto_statements
+³   ³   ÃÄÄÄif_statements
+³   ³   ÃÄÄÄrandom_number_generation
+³   ³   ÃÄÄÄswitch_statements
+³   ³   ÀÄÄÄwhile_statements
+³   ÃÄÄÄcpp11__formerly_cpp0x_
+³   ³   ÃÄÄÄdelegating_constructors
+³   ³   ÃÄÄÄinitializer_lists_and_uniform_initialization
+³   ³   ÃÄÄÄintroduction_to_cpp11
+³   ³   ÃÄÄÄlong_long__auto__decltype__nullptr__and_enum_classes
+³   ³   ÃÄÄÄnew_virtual_function_controls__override__final__default__and_delete_
+³   ³   ÀÄÄÄrange-based_for_statements_and_static_assert
+³   ÃÄÄÄcpp_basics
+³   ³   ÃÄÄÄa_first_look_at_functions
+³   ³   ÃÄÄÄa_first_look_at_operators
+³   ³   ÃÄÄÄa_first_look_at_the_preprocessor
+³   ³   ÃÄÄÄa_first_look_at_variables__and_cin_
+³   ³   ÃÄÄÄcomments
+³   ³   ÃÄÄÄcomprehensive_quiz
+³   ³   ÃÄÄÄforward_declarations
+³   ³   ÃÄÄÄheader_files
+³   ³   ÃÄÄÄhow_to_design_your_first_programs
+³   ³   ÃÄÄÄprograms_with_multiple_files
+³   ³   ÃÄÄÄstructure_of_a_program
+³   ³   ÀÄÄÄwhitespace_and_basic_formatting
+³   ÃÄÄÄexceptions
+³   ³   ÃÄÄÄbasic_exception_handling
+³   ³   ÃÄÄÄexceptions__classes__and_inheritance
+³   ³   ÃÄÄÄexceptions__functions__and_stack_unwinding
+³   ³   ÃÄÄÄexception_dangers_and_downsides
+³   ³   ÃÄÄÄthe_need_for_exceptions
+³   ³   ÀÄÄÄuncaught_exceptions__catch-all_handlers__and_exception_specifiers
+³   ÃÄÄÄfunctions
+³   ³   ÃÄÄÄcommand_line_arguments
+³   ³   ÃÄÄÄdefault_parameters
+³   ³   ÃÄÄÄellipses__and_why_to_avoid_them_
+³   ³   ÃÄÄÄfunction_overloading
+³   ³   ÃÄÄÄfunction_parameters_and_arguments
+³   ³   ÃÄÄÄfunction_pointers
+³   ³   ÃÄÄÄhandling_errors__assert__cerr__exit__and_exceptions_
+³   ³   ÃÄÄÄinline_functions
+³   ³   ÃÄÄÄnamespaces
+³   ³   ÃÄÄÄpassing_arguments_by_address
+³   ³   ÃÄÄÄpassing_arguments_by_reference
+³   ³   ÃÄÄÄpassing_arguments_by_value
+³   ³   ÃÄÄÄrecursion
+³   ³   ÃÄÄÄreturning_values_by_value__reference__and_address
+³   ³   ÀÄÄÄthe_stack_and_the_heap
+³   ÃÄÄÄinheritance
+³   ³   ÃÄÄÄadding__changing__and_hiding_members_in_a_derived_class
+³   ³   ÃÄÄÄbasic_inheritance_in_cpp
+³   ³   ÃÄÄÄconstructors_and_initialization_of_derived_classes
+³   ³   ÃÄÄÄinheritance_and_access_specifiers
+³   ³   ÃÄÄÄintroduction_to_inheritance
+³   ³   ÃÄÄÄmultiple_inheritance
+³   ³   ÃÄÄÄorder_of_construction_of_derived_classes
+³   ³   ÀÄÄÄvirtual_base_classes
+³   ÃÄÄÄinput_and_output__i_o_
+³   ³   ÃÄÄÄbasic_file_i_o
+³   ³   ÃÄÄÄinput_and_output__i_o__streams
+³   ³   ÃÄÄÄinput_with_istream
+³   ³   ÃÄÄÄoutput_with_ostream_and_ios
+³   ³   ÃÄÄÄrandom_file_i_o
+³   ³   ÃÄÄÄstream_classes_for_strings
+³   ³   ÀÄÄÄstream_states_and_input_validation
+³   ÃÄÄÄintroduction___getting_started
+³   ³   ÃÄÄÄa_few_common_cpp_problems
+³   ³   ÃÄÄÄcompiling_your_first_program
+³   ³   ÃÄÄÄinstalling_an_integrated_development_environment__ide_
+³   ³   ÃÄÄÄintroduction_to_c_cpp
+³   ³   ÃÄÄÄintroduction_to_development
+³   ³   ÃÄÄÄintroduction_to_programming_languages
+³   ³   ÀÄÄÄintroduction_to_these_tutorials
+³   ÃÄÄÄmiscellaneous_subjects
+³   ³   ÃÄÄÄdebugging_your_program__stepping_and_breakpoints_
+³   ³   ÃÄÄÄdebugging_your_program__watching_variables_and_the_call_stack_
+³   ³   ÃÄÄÄfixed-width_integers
+³   ³   ÃÄÄÄstatic_and_dynamic_libraries
+³   ³   ÃÄÄÄusing_libraries_with_code__blocks
+³   ³   ÀÄÄÄusing_libraries_with_visual_studio_express_2005
+³   ÃÄÄÄoperators
+³   ³   ÃÄÄÄarithmetic_operators
+³   ³   ÃÄÄÄbitwise_operators
+³   ³   ÃÄÄÄcomprehensive_quiz
+³   ³   ÃÄÄÄconverting_between_binary_and_decimal
+³   ³   ÃÄÄÄincrement_decrement_operators__and_side_effects
+³   ³   ÃÄÄÄlogical_operators
+³   ³   ÃÄÄÄprecedence_and_associativity
+³   ³   ÃÄÄÄrelational_operators__comparisons_
+³   ³   ÀÄÄÄsizeof__comma__and_arithmetic_if_operators
+³   ÃÄÄÄoperator_overloading
+³   ³   ÃÄÄÄintroduction_to_operator_overloading
+³   ³   ÃÄÄÄoverloading_operators_using_member_functions
+³   ³   ÃÄÄÄoverloading_the_arithmetic_operators
+³   ³   ÃÄÄÄoverloading_the_comparison_operators
+³   ³   ÃÄÄÄoverloading_the_increment_and_decrement_operators
+³   ³   ÃÄÄÄoverloading_the_i_o_operators
+³   ³   ÃÄÄÄoverloading_the_parenthesis_operator
+³   ³   ÃÄÄÄoverloading_the_subscript_operator
+³   ³   ÃÄÄÄoverloading_typecasts
+³   ³   ÃÄÄÄoverloading_unary_operators_+__-__and_!
+³   ³   ÃÄÄÄshallow_vs._deep_copying
+³   ³   ÀÄÄÄthe_copy_constructor_and_overloading_the_assignment_operator
+³   ÃÄÄÄstd__string
+³   ³   ÃÄÄÄstd__string_and_std__wstring
+³   ³   ÃÄÄÄstd__string_appending
+³   ³   ÃÄÄÄstd__string_assignment_and_swapping
+³   ³   ÃÄÄÄstd__string_character_access_and_conversion_to_c-style_arrays
+³   ³   ÃÄÄÄstd__string_construction_and_destruction
+³   ³   ÃÄÄÄstd__string_inserting
+³   ³   ÀÄÄÄstd__string_length_and_capacity
+³   ÃÄÄÄtemplates
+³   ³   ÃÄÄÄclass_template_specialization
+³   ³   ÃÄÄÄexpression_parameters_and_template_specialization
+³   ³   ÃÄÄÄfunction_templates
+³   ³   ÃÄÄÄfunction_template_instances
+³   ³   ÃÄÄÄpartial_template_specialization
+³   ³   ÀÄÄÄtemplate_classes
+³   ÃÄÄÄthe_standard_template_library
+³   ³   ÃÄÄÄstl_algorithms_overview
+³   ³   ÃÄÄÄstl_containers_overview
+³   ³   ÃÄÄÄstl_iterators_overview
+³   ³   ÀÄÄÄthe_standard_template_library__stl_
+³   ÃÄÄÄvariables_part_i
+³   ³   ÃÄÄÄbasic_addressing_and_variable_declaration
+³   ³   ÃÄÄÄboolean_values
+³   ³   ÃÄÄÄchars
+³   ³   ÃÄÄÄcomprehensive_quiz
+³   ³   ÃÄÄÄconstants
+³   ³   ÃÄÄÄfloating_point_numbers
+³   ³   ÃÄÄÄhungarian_notation
+³   ³   ÃÄÄÄintegers
+³   ³   ÃÄÄÄkeywords_and_naming_identifiers
+³   ³   ÀÄÄÄvariable_sizes_and_the_sizeof_operator
+³   ÃÄÄÄvariables_part_ii
+³   ³   ÃÄÄÄblocks__compound_statements__and_local_variables
+³   ³   ÃÄÄÄenumerated_types
+³   ³   ÃÄÄÄfile_scope_and_the_static_keyword
+³   ³   ÃÄÄÄglobal_variables__and_why_they_are_evil_
+³   ³   ÃÄÄÄstructs
+³   ³   ÃÄÄÄtypedefs
+³   ³   ÀÄÄÄtype_conversion_and_casting
+³   ÀÄÄÄvirtual_functions
+³       ÃÄÄÄearly_binding_and_late_binding
+³       ÃÄÄÄpointers_and_references_to_the_base_class_of_derived_objects
+³       ÃÄÄÄpure_virtual_functions__abstract_base_classes__and_interface_classes
+³       ÃÄÄÄthe_virtual_table
+³       ÃÄÄÄvirtual_destructors__virtual_assignment__and_overriding_virtualization
+³       ÀÄÄÄvirtual_functions
+ÀÄÄÄtutorialspoint.com#c#1
+    ÃÄÄÄarrays
+    ³   ÃÄÄÄarrays
+    ³   ÃÄÄÄmulti-dimensional_arrays_in_c
+    ³   ÃÄÄÄpassing_arrays_to_functions_as_arguments_in_c
+    ³   ÃÄÄÄpointer_to_an_array_in_c
+    ³   ÀÄÄÄreturn_array_from_function_in_c
+    ÃÄÄÄbasic_syntax
+    ÃÄÄÄbit_fields
+    ÃÄÄÄcommand_line_arguments
+    ÃÄÄÄconstants
+    ÃÄÄÄdata_types
+    ÃÄÄÄdecision_making
+    ³   ÃÄÄÄdecision_making
+    ³   ÃÄÄÄif_statement_in_c
+    ³   ÃÄÄÄif___else_statement_in_c
+    ³   ÃÄÄÄnested_if_statements_in_c
+    ³   ÃÄÄÄnested_switch_statements_in_c
+    ³   ÀÄÄÄswitch_statement_in_c
+    ÃÄÄÄenvironment_setup
+    ÃÄÄÄerror_handling
+    ÃÄÄÄfile_i_o
+    ÃÄÄÄfunctions
+    ³   ÃÄÄÄfunctions
+    ³   ÃÄÄÄfunction_call_by_reference_in_c
+    ³   ÀÄÄÄfunction_call_by_value_in_c
+    ÃÄÄÄheader_files
+    ÃÄÄÄinput_&_output
+    ÃÄÄÄloops
+    ³   ÃÄÄÄbreak_statement_in_c
+    ³   ÃÄÄÄcontinue_statement_in_c
+    ³   ÃÄÄÄdo___while_loop_in_c
+    ³   ÃÄÄÄfor_loop_in_c
+    ³   ÃÄÄÄgoto_statement_in_c
+    ³   ÃÄÄÄloops
+    ³   ÃÄÄÄnested_loops_in_c
+    ³   ÀÄÄÄwhile_loop_in_c
+    ÃÄÄÄmemory_management
+    ÃÄÄÄoperators
+    ³   ÃÄÄÄarithmetic_operators_in_c
+    ³   ÃÄÄÄassignment_operators_in_c
+    ³   ÃÄÄÄbitwise_operators_in_c
+    ³   ÃÄÄÄlogical_operators_in_c
+    ³   ÃÄÄÄoperators
+    ³   ÃÄÄÄoperators_precedence_in_c
+    ³   ÃÄÄÄrelational_operators_in_c
+    ³   ÀÄÄÄsizeof_operator_in_c
+    ÃÄÄÄoverview
+    ÃÄÄÄpointers
+    ³   ÃÄÄÄc_-_array_of_pointers
+    ³   ÃÄÄÄc_-_pointer_arithmetic
+    ³   ÃÄÄÄc_-_pointer_to_pointer_operators
+    ³   ÃÄÄÄpassing_pointers_to_functions_in_c
+    ³   ÃÄÄÄpointers
+    ³   ÀÄÄÄreturn_pointer_from_functions_in_c
+    ÃÄÄÄpreprocessors
+    ÃÄÄÄprogram_structure
+    ÃÄÄÄrecursion
+    ÃÄÄÄscope_rules
+    ÃÄÄÄstorage_classes
+    ÃÄÄÄstrings
+    ÃÄÄÄstructures
+    ÃÄÄÄtypedef
+    ÃÄÄÄtype_casting
+    ÃÄÄÄunions
+    ÃÄÄÄvariables
+    ÀÄÄÄvariable_arguments
