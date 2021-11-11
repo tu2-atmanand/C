@@ -1,2 +1,2 @@
 # C
-This is the repository where all my c files exist
+This is the repository for all my non-project C files.
